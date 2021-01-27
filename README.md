@@ -1,8 +1,8 @@
 # fbclone
 
-![alt tag](https://github.com/nvn5aharan/mycovid-tracker/blob/main/Screenshot%20(4).png)
+![alt tag](https://github.com/nvnsaharan/fbclone/blob/main/login.png)
 
-![alt tag](https://github.com/nvn5aharan/mycovid-tracker/blob/main/Screenshot%20(4).png)
+![alt tag](https://github.com/nvnsaharan/fbclone/blob/main/main.png)
 
 Try it !!
 
