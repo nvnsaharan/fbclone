@@ -1,0 +1,8 @@
+.App{
+    background-color: #f1f2f5;
+    width: 100%;
+}
+
+.app_body{
+    display: flex;
+}
